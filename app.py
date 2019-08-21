@@ -10,4 +10,5 @@ else:
    b=['ni pakak po ra ayya','ndi ra nv','ni pulka','pove amma','chiiiii edi kuda radha']
    c=random.choice(b)
    print(c)
+print("Btw Thank you for playing")
 

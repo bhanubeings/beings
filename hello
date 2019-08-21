@@ -1,2 +1,3 @@
 #this is the y program for hello world")
+#actually it is a python program i just forgot to save it with py extenstion
 print("hello world")

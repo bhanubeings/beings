@@ -1,4 +1,5 @@
 #guessing game for fun and only for my friends
+#hope so u like it and ty and enjoy the game
 import random
 a=random.randrange(1,10)
 

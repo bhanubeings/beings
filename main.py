@@ -1,11 +1,10 @@
 import random
-a=random.randrange(1,2)
-print(a)
+a=random.randrange(1,10)
+
 num=int(input("enter the num"))
 if(a==num):
     print("sadhinichinav poo iga")
 else:
-    if(num==1):
-        print('wow bagane kotinav gane pakakpoo')
-    if(num==2):
-        print('ammoo saalll anna pakakpoo ')
+   b=['ni pakak po ra ayya','ndi ra nv','ni pulka','pove amma','chiiiii edi kuda radha']
+   c=random.choice(b)
+   print(c)

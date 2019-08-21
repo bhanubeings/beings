@@ -1,3 +1,4 @@
+#guessing game for fun and only for my friends
 import random
 a=random.randrange(1,10)
 
